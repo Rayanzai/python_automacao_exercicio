@@ -2,7 +2,6 @@ import pyautogui as gui
 import pyperclip
 from time import sleep
 import pandas as pd
-import numpy as np
 
 
 gui.PAUSE = 1
